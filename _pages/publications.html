@@ -1,36 +1,13 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### **Set-Theoretic Bicontextualism**  
+*Review of Symbolic Logic, Cambridge University Press*  
+[Link zum Artikel](https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/settheoretic-bicontextualism/E3D2323DFFF20A553A41F7742CD6E65D)
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+**Abstract:**  
+Can we quantify over absolutely every set? Absolutists typically affirm, while relativists typically deny, the possibility of unrestricted quantification (in set theory). In the first part of this article, I develop a novel and intermediate philosophical position in the absolutism versus relativism debate in set theory. In a nutshell, the idea is that problematic sentences related to paradoxes cannot be interpreted with unrestricted quantifier domains, while prima facie absolutist sentences (e.g., “no set is contained in the empty set”) are unproblematic in this respect and can be interpreted over a domain containing all sets. In the second part of the paper, I develop a semantic theory that can implement the intermediate position. The resulting framework allows us to distinguish between inherently absolutist and inherently relativist sentences of the language of set theory.
