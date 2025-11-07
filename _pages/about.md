@@ -14,3 +14,5 @@ My research lies at the intersection of logic, the philosophy of mathematics, an
 In my dissertation, Bicontextualism for Truths and Sets, I develop a bipartite semantics that allows for partial absolutism: some sentences admit genuinely unrestricted quantification, while others (notably those involved in paradoxical reasoning) require contextual restriction. This yields a principled middle ground between classical absolutism and generality relativism.
 
 Beyond this work, I am involved in projects on Feferman’s unfolding program (with Martin Fischer and David Hofmann), contextualism in set theory (with Lorenzo Rossi and Chris Scambler), and the universe–multiverse debate (with Matteo de Ceglie).
+
+<small>Last updated: November 2025.</small>
