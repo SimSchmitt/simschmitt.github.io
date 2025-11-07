@@ -19,10 +19,3 @@ author_profile: true
   BA-level, German — **lecture and exercise class**, 4h
 - **Metalogic**  
   BA/MA-level, English — **seminar**, 2h
-
-## **SoSe 2026**
-- **Logic for Philosophers 2 (Predicate Logic)** *(upcoming)*  
-  BA-level, German — **lecture and exercise class**, 4h
-- **Philosophy of Mathematics** *(upcoming)*  
-  BA/MA-level, English — **seminar**, 4h
-
