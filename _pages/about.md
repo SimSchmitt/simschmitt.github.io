@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Logic at the University of Salzburg and an affiliated researcher at the Center for Logic, Language, and Cognition (LLC) at the University of Turin, where I completed my PhD in 2025.
+I am a Lecturer in Logic at the University of Salzburg. I obtained my PhD in 2025 from the Center for Logic, Language, and Cognition (LLC) at the University of Turin.
 
 My research lies at the intersection of logic, the philosophy of mathematics, and the philosophy of language. I am particularly interested in the philosophy of set theory and theories of truth, as well as their connections to proof theory and semantic frameworks for higher-order languages.
 
