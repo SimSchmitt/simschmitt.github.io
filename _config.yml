@@ -25,9 +25,9 @@ author:
   avatar           : "01.jpg"
   name             : "Simon Schmitt"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
-  location         : "Turin"
-  employer         : "University of Turin"
+  bio              : "Lecturer in Logic"
+  location         : "Salzburg"
+  employer         : "University of Salzburg"
   uri              : "https://simschmitt.github.io//"
   email            : "firstname.lastname@unito.it" 
 
