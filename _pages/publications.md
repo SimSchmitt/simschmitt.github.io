@@ -19,7 +19,6 @@ author_profile: true
 
 **Abstract:** This paper develops a Kripkean truth theory for higher-order languages that is compatible with absolute generality. Existing accounts either omit truth-theoretical elements (Rayo and Uzquiano in *Notre Dame J Formal Logic* 40(3):315–325, 1999) or focus only on first-order languages (Rossi in *Notre Dame J Formal Logic* 64(1):95–127, 2023). To fill this gap, I generalize existing literature to cover unrestricted higher-order languages and develop an absolutist-friendly interpretation of higher-order expressions. The theory models key features of natural language, including categorical reference to mathematical structures, a type-free truth predicate, and generality absolutism.
 
----
 
 ## **In Preparation**
 
