@@ -9,7 +9,6 @@ author_profile: true
 
 ### **Set-Theoretic Bicontextualism**  
 *Review of Symbolic Logic, 2025*
-
 [(https://doi.org/10.1017/S1755020325100774)](https://doi.org/10.1017/S1755020325100774)
 
 **Abstract:**  
@@ -18,7 +17,6 @@ Can we quantify over absolutely every set? Absolutists typically affirm, while r
 
 ### **A Kripkean Theory of Truth for Unrestricted Higher-Order Languages**  
 *Erkenntnis, 2026*
-
 [(https://doi.org/10.1007/s10670-026-01074-3)](https://doi.org/10.1007/s10670-026-01074-3)
 
 **Abstract:** 
