@@ -7,8 +7,6 @@ author_profile: true
 
 ## **Published**
 
-<br>
-
 ### **Set-Theoretic Bicontextualism**  
 *Review of Symbolic Logic*, 2025, [https://doi.org/10.1017/S1755020325100774](https://doi.org/10.1017/S1755020325100774)
 
@@ -24,8 +22,6 @@ author_profile: true
 <br>
 
 ## **In Preparation**
-
-<br>
 
 - A paper on mathematical potentialism and Feferman's *Unfolding* Program  (with David Hofmann and Martin Fischer)
 - A paper on contextualism in set theory (with Chris Scambler and Lorenzo Rossi)
